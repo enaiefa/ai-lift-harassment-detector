@@ -1,0 +1,14 @@
+opencv-python
+opencv-contrib-python
+ultralytics
+deepface
+retina-face
+numpy
+torch
+torchvision
+SpeechRecognition
+pydub
+mediapipe
+Flask
+flask-cors
+gdown
